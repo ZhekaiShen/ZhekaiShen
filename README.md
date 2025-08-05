@@ -1,6 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/018c72e1-4f03-48d7-a6d3-a80276a9119e.svg)](https://wakatime.com/@018c72e1-4f03-48d7-a6d3-a80276a9119e)
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJob2pmdWVrdnUwdW11YnM5a2l0Mmx6NGhrb3hyZXBtM3oxc2QyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)" width="100"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJob2pmdWVrdnUwdW11YnM5a2l0Mmx6NGhrb3hyZXBtM3oxc2QyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/bill-bitok-12b241248/">
