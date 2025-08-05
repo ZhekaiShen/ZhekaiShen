@@ -29,15 +29,15 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Billy272)](https://github.com/Billy272/github-profile-trophy)
+
 - :man_technologist: I am a full-stack developer and a AI Researcher.
-- :telescope: I’m a student of Mathematics and Computer Science and also a contributer to frontend of web applications.
+- :telescope: I’m a student of Mathematics and Computer Science .
 
-- :seedling: Exploring more on Data Science and Backend Development.
+- :seedling: Exploring more on AI and Large Language Model.
 
-- :zap: In my free time, I solve problems on Datacamp,leetcode and freecodecamp.org.
+- :zap: Canadian IMO Team Member,Bronze Medalist at the Yau Science Award (CS),a Finalist at the 2024 ISEF.
 
-- :mailbox:How to reach me: billcordias8@gmail.com
+- :mailbox:How to reach me: duduba8818@163.com
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
