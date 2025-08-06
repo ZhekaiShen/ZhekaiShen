@@ -3,7 +3,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJob2pmdWVrdnUwdW11YnM5a2l0Mmx6NGhrb3hyZXBtM3oxc2QyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/bill-bitok-12b241248/">
+  <a href="https://www.linkedin.com/in/zhekai-shen-a25335367/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCi9SOAfJ9N7xU8VjokC04hA">
@@ -20,7 +20,7 @@
   <h1>
    Hey
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    ,I am Zhe Kai
+    ,I am Bill Zhekai
   </h1>
 </div>
 <div align="center">
@@ -35,7 +35,7 @@
 
 - :seedling: Exploring more on AI and Large Language Model.
 
-- :zap: Canadian IMO Team Member,Bronze Medalist at the Yau Science Award (CS),a Finalist at the 2024 ISEF.
+- :zap: Canadian IMO Team Member,Bronze Medalist at the Yau Science Award (CS),a Finalist at the 2024 ISEF, USACO Plantium.
 
 - :mailbox:How to reach me: duduba8818@163.com
 
