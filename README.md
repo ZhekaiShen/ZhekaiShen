@@ -35,7 +35,7 @@
 - :zap: Canadian IMO 2025 Team Member · CMO Silver · Yau Award (Math & CS) · ISEF Finalist · USACO Platinum
 - :robot: Built a **sign language recognition robotic arm** using graph convolutional networks
 - :pill: Researched **AI-driven drug design** targeting cancer proteins (EGFR, PI3Kγ-PAK1) via SFT + RL
-- :mailbox: How to reach me: `zhekai [at] mit [dot] edu`
+- :mailbox: How to reach me: `zhekai@mit.edu`
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
