@@ -29,9 +29,9 @@
 
 ---
 
-- :man_technologist: Incoming student at **MIT**
-- :telescope: I'm a student of Mathematics and AI.
-- :seedling: Exploring more on AI and Large Language Models.
+- :man_technologist: Student at **MIT** (Class of 2030), Mathematics (Course 18) + AI and Decision Making (Course 6-4)
+- :telescope: Interested in quantitative finance, machine learning research, and embodied AI / robotics
+- :mechanical_arm: Undergraduate researcher (UROP) in the Soljačić group at MIT, working on humanoid robot research assistants
 - :zap: Canadian IMO 2025 Team Member · CMO Silver · Yau Award (Math & CS) · ISEF Finalist · USACO Platinum
 - :robot: Built a **sign language recognition robotic arm** using graph convolutional networks
 - :pill: Researched **AI-driven drug design** targeting cancer proteins (EGFR, PI3Kγ-PAK1) via SFT + RL
